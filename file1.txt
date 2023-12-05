@@ -1,1 +1,2 @@
 file1 line1
+FILE1 LINE 2 IN MASTER 
