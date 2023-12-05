@@ -1,2 +1,2 @@
 file1 line1
-file1 and line2 in feature-01
+FILE1 LINE 2 IN MASTER 
